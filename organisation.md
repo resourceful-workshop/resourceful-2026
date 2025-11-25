@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESOURCEFUL-2025
+title: RESOURCEFUL-2026
 ---
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "." %}
@@ -10,22 +10,22 @@ title: RESOURCEFUL-2025
 
 ## Organising team
 
-Špela Arhar Holdt, University of Ljubljana, Slovenia  
-Nikolai Ilinykh, CLASP, University of Gothenburg, Sweden  
-Barbara Scalvini, University of the Faroe Islands, Faroe Islands  
+Nikolai Ilinykh, University of Gothenburg, nikolai.ilinykh@gu.se
+Barbara Scalvini, University of the Faroe Islands, barbaras@setur.fo
+Felix Morger, University of Gothenburg, felix.morger@gu.se
+Simon Dobnik, University of Gothenburg, simon.dobnik@gu.se
+Dana Dannélls, University of Gothenburg, dana.dannells@svenska.gu.se
 
-Mattias Appelgren, University of Gothenburg, Sweden  
-Micaella Bruton, Stockholm University, Sweden  
-Dana Dannélls, Språkbanken Text, University of Gothenburg, Sweden  
-Simon Dobnik, CLASP, University of Gothenburg, Sweden  
-Crina Tudor, Stockholm University, Sweden  
-Joakim Nivre, RISE and Uppsala University, Sweden  
-Iben Nyholm Debess, University of the Faroe Islands, Faroe Islands  
-Sara Stymne, Uppsala University, Sweden  
-Jörg Tiedemann, University of Helsinki, Finland  
-Lilja Øvrelid, University of Oslo, Norway  
+Micaella Bruton, Stockholm University, micaella.bruton@ling.su.se
+Dávid í Lág, University of the Faroe Islands, davidl@setur.fo
+Alina Karakanta, Leiden University Centre for Linguistics, a.karakanta@hum.leidenuniv.nl 
+Beáta Megyesi, Stockholm University, beata.megyesi@ling.su.se
+Joakim Nivre, Uppsala University, joakim.nivre@lingfil.uu.se
+Iben Nyholm Debess, University of the Faroe Islands, ibennd@setur.fo
+Lilja Øvrelid Professor, University of Oslo, liljao@ifi.uio.no
+Sara Stymne, Uppsala University, Sara.Stymne@lingfil.uu.se
+Jörg Tiedemann, University of Helsinki, jorg.tiedemann@helsinki.fi
+Crina Tudor, Stockholm University, crina.tudor@ling.su.se
 
 ## Acknowledgements
-
-The organisation of the workshop has been supported by Språkbanken – jointly funded by its 10 partner institutions and the Swedish Research Council (2025–2028; grant no. 2023-00161). It has also been supported by HUMINFRA with funding from the Swedish Research Council (grant no. 2023-00171).
 
