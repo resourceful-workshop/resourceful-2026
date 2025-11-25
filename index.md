@@ -8,7 +8,7 @@ title: RESOURCEFUL-2026
         {% assign basepath = "" %}
         {% endif %}
 
-Co-located with [the fifteenth biennial Language Resources and Evaluation Conference (LREC)]([https://www.nodalida-bhlt2025.eu](https://lrec2026.info)), Palma, Mallorca (Spain).
+Co-located with [the fifteenth biennial Language Resources and Evaluation Conference (LREC)](https://lrec2026.info), Palma, Mallorca (Spain).
 
 ## Important information
 
