@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman 
-description: "RESOURCEFUL 2026"
+description: "The fourth international workshop on the role of resources in the age of large language models"
 basepath: "resourceful-2026/"
 
 
@@ -7,4 +7,4 @@ navigation:
   - text: Home
     url: /index.html
   - text: Organisation
-    url: /oragnisation.html
+    url: /organisation.html
