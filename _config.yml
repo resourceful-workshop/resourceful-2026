@@ -1,21 +1,12 @@
 theme: jekyll-theme-cayman 
-description: "Resources and representations for under-resourced languages and domains"
-basepath: "resourceful-2025/"
+description: "RESOURCEFUL 2026"
+basepath: "resourceful-2026/"
+
 
 navigation:
   - text: Home
     url: /index.html
-  - text: Workshop programme
-    url: /schedule.html
-  - text: Accepted papers
-    url: /papers.html
-  - text: Invited Speakers
-    url: /invited_speakers.html
-  - text: Presentation details
-    url: /presentations.html
-  - text: Organisation
-    url: /organisation.html
-  - text: Important dates
+  - text: Dates
     url: /dates.html
-  - text: Submission details
-    url: /submission_details.html
+  - text: Organisation
+    url: /oragnisation.html
