@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESOURCEFUL-2025
+title: RESOURCEFUL-2026
 ---
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "." %}
@@ -8,10 +8,13 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
         {% endif %}
 
-Co-located with [the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)](https://www.nodalida-bhlt2025.eu), Tallinn, Estonia.
+Co-located with [the fifteenth biennial Language Resources and Evaluation Conference (LREC)]([https://www.nodalida-bhlt2025.eu](https://lrec2026.info)), Palma, Mallorca (Spain).
 
-## Important information for participants (to be continuously updated)
+## Important information
 
+To be updated.
+
+<!---
 **Room name: LÄÄNE-EUROOPA, first floor from the lobby entry**, https://www.hestiahotels.com/europa/en/conference/ruum/  
 **Poster Session Location: 1st floor (ground floor is E floor) from the lobby area near the registration desk.**
 
@@ -33,30 +36,37 @@ We can issue a certificate of attendance and/or a certificate of presentation fo
 The proceedings are now available in the University of Tartu Library, and [they can be accessed here](https://dspace.ut.ee/collections/07b1b4a0-f4ef-4bb7-95c0-5096c8b048dd)
 
 Proceedings will also be published in the ACL Anthology closer to the date of the workshop.
+-->
 
 ## Workshop description
 
-The workshop is a continuation of the workshop series [RESOURCEFUL](https://resourceful-workshop.github.io), focusing on RESOURCEs and representations For Under-resourced Languages. The main goal of the workshop is to continue exploring the role of the type and quality of resources that are available to computational linguists as well as challenges and directions for constructing new resources in light of the latest trends in natural language processing, computational linguistics and artificial intelligence.
+The workshop is a continuation of the workshop series [RESOURCEFUL](https://resourceful-workshop.github.io), focusing on the role of resources in the age of large language models (LLMs).
 
-On the one hand, data-driven machine learning techniques in natural language processing have achieved remarkable performance in many tasks, but to do so, large quantities of quality data (mostly text) are required. One question that has been raised is whether text-only data is enough to capture semantics or other modalities such as images, sounds, situated context or embodiment are required. Interpretability studies of large language models have revealed that even with large datasets the models still do not cover all the contexts of human social activity and are prone to capturing unwanted bias where data is focused towards only some contexts. Collecting, managing and understanding linguistic data in the age of machine learning is challenging and different tools are required to address these questions.
+The language resources community has long provided the empirical foundation for language technology, building datasets that have been crucial for  development of NLP models. However, the introduction of large language models (LLMs), trained on vast and undisclosed texts, has disrupted this ecosystem. Traditional notions and methods of resource building are evolving. As LLMs have absorbed tons of publicly available data, the boundaries between training and evaluation sets are becoming blurred, and the very idea of "unseen" data is fading. Moreover, these models can now generate synthetic linguistic data, enabling the creation of new linguistic material for the models.
+This paradigm introduces new challenges and risks, particularly in the domain of evaluation. These shifting dynamics raise fundamental questions about how we evaluate models, ensure data transparency, and preserve the integrity of linguistic resources. The RESOURCEFUL 2026 workshop aims therefore at stimulating a critical dialogue on the methodological, ethical, and practical dimensions of data creation, authenticity, and representation in the age of LLMs.
 
-On the other hand, expert-driven annotator-based resources have been constructed over the years based on theoretical work in linguistics, psychology and related fields and a large amount of work has been done both theoretically and practically. One challenge is understanding to what degree such resources which have traditionally been aimed at rule-based natural language processing approaches are relevant today for both machine learning techniques and neuro-symbolic methods. Both types of resources are used by computational linguists. How can they be adapted for one another? To what degree can data-driven approaches be used to facilitate expert-driven annotation? What are the current challenges for expert-based annotation and data-driven methods? How can crowdsourcing and citizen science be used in building resources? How can we evaluate and reduce unwanted bias? What is required from each type of resource to evaluate how machine learning techniques work for different linguistic tasks?
+The workshop aims to bring together researchers involved in the creation, validation, and evaluation of next-generation language resources. We invite contributions from all areas of language resource research, especially on (i) corpus and annotation design, (ii) evaluation and benchmarking methodologies, (iii) low-resource NLP and linguistic diversity, (iv) synthetic data generation and validation, (v) ethics, data governance, and reproducibility. We aim to promote a discussion between traditional resource builders, evaluation specialists, linguists, anthropologists, field researchers and LLM researchers, creating a shared forum to redefine the role of resources in NLP.
 
-Intended participants are researchers, PhD students and practitioners from diverse backgrounds (linguistics, psychology, computational linguistics, speech, computer science, machine learning, computer vision etc). We foresee an interactive workshop with plenty of time for discussion, complemented with invited talks and presentations of of on-going or completed research.
 
 ## Topics of interest
 
 We would like to open a forum by bringing together students, researchers, and experts to address and discuss the following points:
 
-* The types of linguistic knowledge that should be captured by the models across different contexts and tasks.
-* Practical methods for sampling and extracting knowledge.
-* Relevance of traditional NLP resources for use in data-driven approaches.
-* Use of data-driven approaches to enhance expert-driven annotation processes.
-* Current challenges faced in expert-based annotation.
-* Crowdsourcing and citizen science initiatives to build and enrich linguistic resources.
-* Methods to evaluate and mitigate unwanted biases in linguistic models and data.
-* Creating anonymised and pseudonymised datasets and models
-* Evaluating the role of modern LLMs in the creation of new linguistic resources.  
+* Novel approaches beyond static datasets; resources as processes; reusable, dynamic, and interactive resources.
+* Documentation, reproducibility, and transparency in procedurally generated or evolving resources.
+* Limitations and opportunities in using LLMs as ``judges'' or co-annotators to support expert-based linguistic annotation.
+* Quantifying linguistic, pragmatic, cultural dimensions and related biases for resource creation including LLM-generated data.
+* Semi-automatic and human-in-the-loop methods for benchmark creation and model evaluation.
+* Synthetic and transfer-based methods for low-resource and domain-specific languages.
+* Evaluation under data scarcity, domain shift, or limited access to real data or annotators.
+* Maintaining and updating benchmarks in the LLM era.
+* Methods for generating and benchmarking synthetic linguistic data; incorporation of such data in model training and evaluation.
+* Purpose-based, Turing-test inspired or interaction-based evaluation of NLP systems.
+* Data ownership, governance, consent, and community-centered perspectives in data creation for under-represented languages.
+* Ethical and legal implications of automatically generated data.
+* Metadata and documentation practices for evolving and synthetic resources.
+* Long-term sustainability and openness of linguistic resources.
+
 
 ## Contact
 
