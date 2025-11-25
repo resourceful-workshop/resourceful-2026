@@ -6,7 +6,5 @@ basepath: "resourceful-2026/"
 navigation:
   - text: Home
     url: /index.html
-  - text: Dates
-    url: /dates.html
   - text: Organisation
     url: /oragnisation.html
