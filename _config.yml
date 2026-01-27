@@ -8,3 +8,5 @@ navigation:
     url: /index.html
   - text: Organisation
     url: /organisation.html
+  - text: Important dates
+    url: /dates.html
