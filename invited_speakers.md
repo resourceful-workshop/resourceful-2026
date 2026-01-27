@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESOURCEFUL-2025
+title: RESOURCEFUL-2026
 ---
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "." %}
@@ -9,6 +9,37 @@ title: RESOURCEFUL-2025
 {% endif %}
 
 <hr>
+
+<div>
+    <div class="iblock headshot-invited-speaker">
+        <!-- <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot"> -->
+        <a href="https://www.etis.ee/CV/Mark_Fišel/eng" class="headshotaffiliation"> Mark Fišel </a>
+        <div class="headshotname"> University of Tartu, Estonia </div>
+    </div>
+</div>
+
+<hr>
+
+<div>
+    <div class="iblock headshot-invited-speaker">
+        <!-- <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot"> -->
+        <a href="https://www.ilsp.gr/en/members/gavriliidou-maria/" class="headshotaffiliation"> Maria Gavriilidou </a>
+        <div class="headshotname"> Institute for Language and Speech Processing / RC Athena, Greece </div>
+    </div>
+</div>
+
+<hr>
+
+<div>
+    <div class="iblock headshot-invited-speaker">
+        <!-- <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot"> -->
+        <a href="https://www.tiagotorrent.com" class="headshotaffiliation"> Tiago Torrent </a>
+        <div class="headshotname"> Federal University of Juiz de Fora, Brazil </div>
+    </div>
+</div>
+
+
+<!-- 
 
 <div>
     <div class="iblock headshot-invited-speaker">
@@ -83,3 +114,5 @@ Joshua Wilbur works at the Center for Digital Humanities at the Institute of Est
 <div style="text-align: justify;">
 Pite Saami is a critically endangered Uralic language spoken by only a few dozen individuals originating from areas in and around Arjeplog in Swedish Lapland. Due to the exceptionally small number of native speakers, a very limited amount of language data is available; nonetheless, there is a surprisingly diverse set of language resources available, both in digital and in analogue form. In this talk, I will explore the perhaps extraordinary state of Pite Saami language data and digital tools, including how this came about, what potential the data holds in the context of current technological advances, and the challenges involved in this. In doing so, I hope to provide a starting point for a discussion on both the realities and realistic prospects of developing NLP for seriously under-resourced languages. 
 </div>
+
+-->
