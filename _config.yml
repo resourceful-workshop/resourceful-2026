@@ -10,5 +10,7 @@ navigation:
     url: /submission_details.html
   - text: Important dates
     url: /dates.html
+  - text: Keynote speakers
+    url: /invited_speakers.html
   - text: Organisation
     url: /organisation.html
