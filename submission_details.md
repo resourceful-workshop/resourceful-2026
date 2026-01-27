@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESOURCEFUL-2025
+title: RESOURCEFUL-2026
 ---
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "." %}
@@ -8,18 +8,28 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
         {% endif %}
 
-To submit a paper, please visit the following [OpenReview submission link](https://openreview.net/group?id=NoDaLiDa/Baltic-HLT/2025/Workshop/RESOURCEFUL).
+To submit a paper, please visit the [Softconf/START submission link](https://softconf.com/lrec2026/RESOURCEFUL2026).
 
-We invite submissions of both long (**8** pages) and short papers (**4** pages) with any number of pages for references.
+We use START Conference Manager to manage submissions. When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e. also technologies, standards, evaluation kits, etc.) that have been used for the work described in the paper or are a new result of your research. Moreover, ELRA encourages all LREC authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones).
+
+We invite submissions for the following tracks:
+
+**Archival track**: _Long papers (8 pages)_ and _short papers (4 pages)_ with any number of pages for references. Camera-ready versions are given 1 extra page to incorporate comments from the reviewers. Accepted papers will be published in the workshop proceedings. Papers in this track will go through double-blind peer-reviewing. Papers should be anonymised.
+
+**Non-archival track**: _Long papers (8 pages)_ and _short papers (4 pages)_ with any number of pages for references. Papers in this track will be reviewed by the program committee for relevance to the workshop. Accepted submissions in this track will not be published in the proceedings, but will be published on the workshop website. We also invite _extended abstracts (maximum 2 pages)_ that describe work in progress, negative results, or opinion pieces. Papers do not need to be anonymised. These papers could have been published elsewhere.  
+
+All submissions in both tracks must follow the LREC 2026 template. Templates are available at https://lrec2026.info/authors-kit/.
+
+In addition, papers of any length related to our theme and already published elsewhere will be considered for acceptance for presentation.
+
+<!-- 
+
 All submissions must follow the NoDaLida template, available in both LaTeX and MS Word at the official conference website, [link](https://www.nodalida-bhlt2025.eu/accepted-papers/call-for-papers#h.v2k63awq0fpe).
 Submissions must be **anonymous** and submitted in the .pdf format through OpenReview.
 We do not allow appendices that go beyond the 8-page limit. We do allow a section on limitations to exceed the page limit.
 
-We also invite submissions of maximum **2-page** extended **non-anonymous** abstracts with any number of pages for references describing work in progress, negative results and opinion pieces.
-The abstracts, which should follow the same formatting templates as the archival track, will be considered by the workshop organisers and the accepted ones will be posted on the workshop website.
-
-We offer the option to submit papers that have undergone the review process at NoDaLiDa Baltic-HLT 2025 including their reviews and meta-review.
-If you are submitting a paper along with reviews and a meta-review from NoDaLiDa Baltic-HLT 2025, you are also required to submit a short letter (maximum of 2 pages) containing the authors' comments addressing the reviews from the main conference.
 
 Papers of any length related to our theme and already published elsewhere will be considered for acceptance for presentation.
 However, these will not be considered for publication in the proceedings.
+
+-->
