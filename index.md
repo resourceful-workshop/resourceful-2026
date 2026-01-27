@@ -12,7 +12,7 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 
 ## Important information
 
-To be updated.
+The first CfP is out!
 
 <!---
 **Room name: LÄÄNE-EUROOPA, first floor from the lobby entry**, https://www.hestiahotels.com/europa/en/conference/ruum/  
