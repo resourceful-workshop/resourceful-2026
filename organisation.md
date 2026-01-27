@@ -10,11 +10,11 @@ title: RESOURCEFUL-2026
 
 ## Organising team
 
-Nikolai Ilinykh, University of Gothenburg  
 Barbara Scalvini, University of the Faroe Islands  
 Felix Morger, University of Gothenburg  
-Simon Dobnik, University of Gothenburg  
+Nikolai Ilinykh, University of Gothenburg  
 Dana Dannélls, University of Gothenburg  
+Simon Dobnik, University of Gothenburg  
 
 Micaella Bruton, Stockholm University  
 Dávid í Lág, University of the Faroe Islands  
