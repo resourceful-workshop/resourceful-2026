@@ -14,13 +14,13 @@ title: RESOURCEFUL-2026
     <tr> 
         <td style="border: none;">Submission deadline (both papers and abstracts):</td> 
         <td style="border: none;">
-            <!-- <span style="text-decoration: line-through;">2024-12-09</span> &nbsp; --> 2026-02-19  
+            <span style="text-decoration: line-through;">2026-02-19</span> &nbsp; 2026-02-23  
         </td>
     </tr> 
     <tr> 
         <td style="border: none;">Notification of acceptance:</td> 
         <td style="border: none;">
-            <!-- <span style="text-decoration: line-through;">2025-01-20</span> &nbsp; --> 2026-03-23
+            <!-- <span style="text-decoration: line-through;">2026-03-23</span> &nbsp; 2026-03-24
         </td>
     </tr> 
     <tr> 
