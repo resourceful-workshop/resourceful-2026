@@ -26,6 +26,7 @@ Lilja Øvrelid Professor, University of Oslo
 Sara Stymne, Uppsala University  
 Jörg Tiedemann, University of Helsinki  
 Crina Tudor, Stockholm University  
+Bolette Sandford Pedersen, University of Copenhagen  
 
 ## Acknowledgements
 
