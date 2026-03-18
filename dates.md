@@ -20,13 +20,13 @@ title: RESOURCEFUL-2026
     <tr> 
         <td style="border: none;">Notification of acceptance:</td> 
         <td style="border: none;">
-            <!-- <span style="text-decoration: line-through;">2026-03-23</span> &nbsp; 2026-03-24
+          2026-03-24
         </td>
     </tr> 
     <tr> 
         <td style="border: none;">Camera-ready:</td> 
         <td style="border: none;">
-            <!-- <span style="text-decoration: line-through;">2025-02-03</span> &nbsp; --> 2026-03-30
+              2026-03-30
         </td>
     </tr> 
     <tr> 
