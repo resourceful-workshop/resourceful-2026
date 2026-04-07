@@ -6,11 +6,13 @@ basepath: "resourceful-2026/"
 navigation:
   - text: Home
     url: /index.html
-  - text: Submission details
-    url: /submission_details.html
-  - text: Important dates
-    url: /dates.html
+  - text: Programme
+    url: /schedule.html
   - text: Keynote speakers
     url: /invited_speakers.html
+  - text: Important dates
+    url: /dates.html
+  - text: Submission details
+    url: /submission_details.html
   - text: Organisation
     url: /organisation.html
