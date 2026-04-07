@@ -3,9 +3,9 @@ layout: default
 title: RESOURCEFUL-2026
 ---
 {% if jekyll.environment  == "production" %}
-        {% assign basepath = "/resourceful-2025" %}
+        {% assign basepath = "/resourceful-2026" %}
         {%else%}
-        {% assign basepath = "/resourceful-2025" %}
+        {% assign basepath = "/resourceful-2026" %}
         {% endif %}
 
 ## Workshop schedule
@@ -16,49 +16,54 @@ The workshop will take place on May 11, 2026.
 
 <hr>
 
-**9:00 - 9:10** Welcome
+**9:00 - 9:05** Welcome
 
-**9:10 - 9:40** <b> Keynote I, Beáta Megyesi: Unlocking Hidden Histories: AI and Expert Collaboration in Deciphering Rare Scripts </b> (session chair: Simon Dobnik), slides are available [here](./slides/megyesi-keynote.pdf).
+**9:05 - 9:45** <b> Keynote I, Mark Fišel
 
-**9:40 - 10:00** Oral talks I (session chair: Simon Dobnik)
+**9:45 - 10:25** Oral talks I
 
-  * <b> The Application of Corpus-Based Language Distance Measurement to the Diatopic Variation Study (on the Material of the Old Novgorodian Birchbark Letters) </b>  
-  <span style="color:gray"> Afanasev, Ilia and Lyashevskaya, Olga </span>  
+  * <b> 9:45 - 10:05: Lost in Translation: Repurposing Semantic Similarity Benchmarks for Evaluating Lexical-Semantic Consistency in LLM-Based Machine Translation </b>  
+  <span style="color:gray"> Ye, Quin and Bloem, Jelke </span>
 
-**10:00 - 10:30** Coffee break
+  * <b> 10:05 - 10:25: Bridging the Low Resource Gap in Historical Cryptology: A Multilingual Diachronic Synthetic Dataset for Reproducible Cryptanalysis </b>  
+  <span style="color:gray"> Bruton, Micaella and Beloucif, Meriem and Megyesi, Beáta </span>  
 
-**10:30 - 11:00** <b> Keynote II, Joshua Wilbur: Digitizing Pite Saami: Making the most of limited resources </b>  (session chair: Jörg Tiedemann), slides are available [here](./slides/wilbur-keynote.pdf).
+**10:25 - 11:00** Coffee break
 
-**11:00 - 12:00** Oral talks II (session chair: Špela Arhar Holdt)
+**11:00 - 11:40** <b> Keynote II, Tiago Timponi Torrent
 
-* <b> 11:00 - 11:20: Voices of Luxembourg: Tackling Dialect Diversity in a Low-Resource Setting [ONLINE] </b> 
-  <span style="color:gray"> Hosseini-Kivanani, Nina and Schommer, Christoph and Gilles, Peter </span>  
+**11:40 - 12:40** Oral talks II
+
+* <b> 11:40 - 12:00: Cultural Grounding in Swedish: Extending an Everyday Knowledge Benchmark for LLMs </b> 
+  <span style="color:gray"> Beloucif, Meriem and Sjons, Johan </span>  
  
-* <b> 11:20 - 11:40: Automatic Validation of the Non-Validated Spanish Speech Data of Common Voice 17.0 [ONLINE] </b>  
-  <span style="color:gray"> Hernández Mena, Carlos Daniel and Scalvini, Barbara and Lág, Dávid í </span>  
+* <b> 12:00 - 12:20: Entity Linking for Faroese Using Large Language Models with Web Search </b>  
+  <span style="color:gray"> Simonsen, Annika and Debess, Iben Nyholm and Einarsson, Hafsteinn </span>  
  
-* <b> 11:40 - 12:00: OCR Error Post-Correction with LLMs in Historical Documents: No Free Lunches </b>  
-  <span style="color:gray"> Kanerva, Jenna and Ledins, Cassandra and Käpyaho, Siiri and Ginter, Filip </span>  
+* <b> 12:20 - 12:40: From Polyester Girlfriends to Blind Mice: Creating the First Pragmatics Understanding Benchmarks for Slovene </b>  
+  <span style="color:gray"> Brglez, Mojca and Vintar, Špela </span>  
 
-**12:00 - 13:10** Lunch
+**12:40 - 14:00** Lunch
 
-**13:10 - 13:40** <b> Keynote III, Jussi Karlgren: What are the most sustainable and valuable resources that language technologists should develop for training language models? </b>  (session chair: Nikolai Ilinykh), slides are available [here](./slides/karlgren-keynote.pdf).
+**14:00 - 14:40** <b> Keynote III, Maria Gavriilidou
 
-**13:40 - 14:40** Oral talks III (session chair: Barbara Scalvini)
+**14:40 - 15:40** Oral talks III
 
-*  <b> 13:40 - 14:00: FoQA: A Faroese Question-Answering Dataset </b>
-  <span style="color:gray"> Simonsen, Annika and Nielsen, Dan Saattrup and Einarsson, Hafsteinn </span>
+*  <b> 14:40 - 15:00: SdQuAD: A Benchmark Question Answering Dataset for Low-resource Sindhi Language </b>
+  <span style="color:gray"> Ali, Wazir and Rafay, Muhammad and Ali, Nadia and Rehman, Amar </span>
 
-*  <b> 14:00 - 14:20: Annotating Attitude in Swedish Political Tweets [ONLINE] </b> 
-  <span style="color:gray"> Lindahl, Anna </span>
+*  <b> 15:00 - 15:20: LLMs as Assistants for Data Annotation: Addressing Disagreement and Supporting Expert Processes </b> 
+  <span style="color:gray"> Andrade, Mark and Hefernan, Bláithín and Walsh, Abigail and Castilho, Sheila </span>
 
-* <b> 14:20 - 14:40: Multi-label Scandinavian Language Identification (SLIDE) </b>
-  <span style="color:gray"> Fedorova, Mariia and Frydenberg, Jonas Sebulon and Handford, Victoria and Langø, Victoria Ovedie Chruickshank and Willoch, Solveig Helene and Midtgaard, Marthe Løken and Scherrer, Yves and Mæhlum, Petter and Samuel, David </span>  
+* <b> 15:20 - 15:40: Annotation Quality in Aspect-Based Sentiment Analysis: A Case Study Comparing Experts, Students, Crowdworkers, and Large Language Models </b>
+  <span style="color:gray"> Donhauser, Niklas and Fehle, Jakob and Hellwig, Nils Constantin and Weinberger, Markus and Kruschwitz, Udo and Wolff, Christian </span>  
 
-**14:40 - 15:50** Poster session (incl. coffee break)
+**15:40 - 16:00** Lightning poster presentations
 
-**15:50 - 16:50** Panel discussion with Jussi Karlgren, Joshua Wilbur, Danila Petrelli, Hafsteinn Einarsson, Beáta Megyesi (moderator: Nikolai Ilinykh)
+**16:00 - 17:00** Poster session and coffee break
 
-**16:50 - 17:00** Closing
+**17:00 - 17:55** Panel discussion
+
+**17:55 - 18:00** Closing
 
 <hr>
