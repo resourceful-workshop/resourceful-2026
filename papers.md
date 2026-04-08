@@ -13,25 +13,22 @@ title: RESOURCEFUL-2026
 ## Oral talks
 
   *  <font size="4"> <b> Lost in Translation: Repurposing Semantic Similarity Benchmarks for Evaluating Lexical-Semantic Consistency in LLM-Based Machine Translation </b> </font>  
-  [slides](x)  
+  <!-- [slides](x) --> 
   <span style="color:gray"> Ye, Quin and Bloem, Jelke </span>  
   <button onclick="toggleAbstract('abstract1')">Show abstract</button>  
   <div id="abstract1" class="abstract" style="display:none;">We propose and demonstrate a repurposing of the lexical similarity benchmark Multi-SimLex and the SimLex-999 family of resources for assessing the cross-lingual lexical-semantic consistency of multilingual large language models. While originally gathered for evaluating word embedding models, the parallel nature of the word pairs enables their use in machine translation settings. Using a manually verified subset of 500 word pairs from the Multi-SimLex dataset, we evaluate models’ ability to assess semantic similarity and perform translation between English and Mandarin through zero-shot prompting. We compare BLOOMZ and GPT-4’s similarity ratings against human-annotated benchmarks and examine translation consistency using our and other metrics, with GPT-4 showing stronger human alignment. As SimLex-999 and Multi-SimLex together cover a range of at least 25 languages, this approach has the potential to be extended to many language pairs including ones that don’t involve English, though it requires some manual checks.</div>
 
   *  <font size="4"> <b> Bridging the Low Resource Gap in Historical Cryptology: A Multilingual Diachronic Synthetic Dataset for Reproducible Cryptanalysis </b></font>
-  [slides](x)  
   <span style="color:gray"> Bruton, Micaella and Beloucif, Meriem and Megyesi, Beáta </span>  
   <button onclick="toggleAbstract('abstract2')">Show abstract</button>  
   <div id="abstract2" class="abstract" style="display:none;">Many NLP tasks suffer from limited aligned supervision in the target domain. Historical cipher decryption represents an extreme case: aligned plaintext–ciphertext pairs are scarce, access to decrypted archives is restricted, and prior work often relies on synthetic data that is neither released nor evaluated for realism. This limits reproducibility and obscures whether models trained on synthetic benchmarks transfer to archival conditions. We introduce HistCiph, the first publicly available multilingual collection of historically grounded plaintext–ciphertext datasets for classical ciphers. Spanning ten languages (Czech, Dutch, English, French, Hungarian, Icelandic, Italian, Polish, Spanish, Swedish) and multiple centuries, the collection combines diachronically balanced historical plaintext with independently generated homophonic substitution keys and controlled transcription noise. Synthetic generation is explicitly constrained by documented properties of historical ciphers, including multi-homophone allocation and variable-length codes. We validate the datasets using information-theoretic diagnostics—entropy, redundancy, frequency masking, and unicity distance—showing that ciphertext distributions approach theoretical bounds while preserving cross-linguistic variation. HistCiph provides a reproducible benchmark for neural decryption and alignment, and illustrates a principled framework for empirically grounded synthetic data generation in low-resource NLP.</div>
 
   *  <font size="4"> <b> Cultural Grounding in Swedish: Extending an Everyday Knowledge Benchmark for LLMs </b> </font>
-  [slides](x)  
   <span style="color:gray"> Beloucif, Meriem and Sjons, Johan </span>  
   <button onclick="toggleAbstract('abstract3')">Show abstract</button>  
   <div id="abstract3" class="abstract" style="display:none;">Benchmarks for evaluating Large Language Models (LLMs) on everyday knowledge across cultures and languages are increasingly used to assess cultural competence and contextual understanding. However, many multilingual extensions rely primarily on translated question–answer pairs, limiting their ability to capture locally grounded variation. In this work, we present a Swedish extension of an existing cross-cultural everyday knowledge benchmark, in which questions are translated into Swedish and answers are collected individually from five participants with diverse social and professional backgrounds. This design enables us to capture situated, naturally produced responses from a specific participant group rather than transferred or translated answer templates. We document the translation protocol, participants, and agreement analysis, and examine variation across participants as a signal of culturally contingent knowledge. We evaluate several state-of-the-art multilingual and instruction-tuned LLMs against the aggregated human responses and analyze model performance. Our results reveal that while models often approximate prototypical answers, they struggle with culturally specific nuances and intra-cultural variation. The Swedish extension provides a resource for studying culturally grounded evaluation and highlights the importance of human-generated local answers when benchmarking LLMs across languages.</div>
           
   *  <font size="4"> <b> Entity Linking for Faroese Using Large Language Models with Web Search </b> </font>
-  [slides](x)  
   <span style="color:gray"> Simonsen, Annika and Debess, Iben Nyholm and Einarsson, Hafsteinn </span>  
   <button onclick="toggleAbstract('abstract4')">Show abstract</button>  
   <div id="abstract4" class="abstract" style="display:none;">
@@ -39,7 +36,6 @@ title: RESOURCEFUL-2026
   </div>
 
   *  <font size="4"> <b> From Polyester Girlfriends to Blind Mice: Creating the First Pragmatics Understanding Benchmarks for Slovene </b> </font>
-  [slides](x)  
   <span style="color:gray"> Brglez, Mojca and Vintar, Špela </span>  
   <button onclick="toggleAbstract('abstract5')">Show abstract</button>  
   <div id="abstract5" class="abstract" style="display:none;">
@@ -47,7 +43,6 @@ title: RESOURCEFUL-2026
   </div>
 
   *  <font size="4"> <b> SdQuAD: A Benchmark Question Answering Dataset for Low-resource Sindhi Language </b> </font>
-  [slides](x)  
   <span style="color:gray"> Ali, Wazir and Rafay, Muhammad and Ali, Nadia and Rehman, Amar </span>  
   <button onclick="toggleAbstract('abstract6')">Show abstract</button>  
   <div id="abstract6" class="abstract" style="display:none;">
@@ -55,7 +50,6 @@ title: RESOURCEFUL-2026
   </div>
 
   *  <font size="4"> <b> LLMs as Assistants for Data Annotation: Addressing Disagreement and Supporting Expert Processes </b> </font>
-  [slides](x)  
   <span style="color:gray"> Andrade, Mark and Hefernan, Bláithín and Walsh, Abigail and Castilho, Sheila </span>  
   <button onclick="toggleAbstract('abstract7')">Show abstract</button>  
   <div id="abstract7" class="abstract" style="display:none;">
@@ -63,7 +57,6 @@ title: RESOURCEFUL-2026
   </div>
 
   *  <font size="4"> <b> Annotation Quality in Aspect-Based Sentiment Analysis: A Case Study Comparing Experts, Students, Crowdworkers, and Large Language Models </b> </font>
-  [slides](x)  
   <span style="color:gray"> Donhauser, Niklas and Fehle, Jakob and Hellwig, Nils Constantin and Weinberger, Markus and Kruschwitz, Udo and Wolff, Christian </span>  
   <button onclick="toggleAbstract('abstract8')">Show abstract</button>  
   <div id="abstract8" class="abstract" style="display:none;">
@@ -73,19 +66,16 @@ title: RESOURCEFUL-2026
 ## Posters
 
   *  <font size="4"> <b> Cross-Lingual Mathematical Reasoning in LLMs: Evaluating Performance on Icelandic vs. English Problems </b> </font>
-  [poster](x)  
   <span style="color:gray"> Einarsson, Hafsteinn </span>  
   <button onclick="toggleAbstract('abstract9')">Show abstract</button>
   <div id="abstract9" class="abstract" style="display:none;">We investigate whether large language models (LLMs) exhibit performance differences when solving mathematical problems presented in a low-resource language (Icelandic) versus a high-resource language (English). Using 847 multiple-choice problems from the Icelandic Mathematics Competition corpus (STAK), we evaluate two state-of-the-art models (Gemini-3-Flash-Preview and GPT-5.4-mini) in both multiple-choice (MC) and open-ended (OE) formats, with correctness determined by a three-judge quorum (Gemini-3-Flash, GPT-5.4-mini, Claude Sonnet 4.6) achieving 97.6% unanimous agreement. Our results reveal significant cross-lingual performance gaps that vary by model: Gemini-3-Flash shows a consistent English advantage of 2.4–10.0 percentage points across both evaluation modes, while GPT-5.4-mini exhibits no significant language effects. Notably, GPT-5.4-mini demonstrates a substantial MC deficit, achieving only 42% in that format despite reaching 69–71% accuracy on OE problems. Analysis of answer patterns reveals a strong option position bias in GPT-5.4-mini, with systematic over-selection of option B and under-selection of option D. These findings suggest that language does affect LLM mathematical reasoning for some models, but the effect is model-dependent and interacts with evaluation format, with implications for deploying LLMs in educational contexts for speakers of low-resource languages.</div>
 
   *  <font size="4"> <b> Struct2Unstruct: Creating Tender NER Datasets from Structured Procurement Records using Large Language Models </b> </font>
-  [poster](x)  
   <span style="color:gray"> Abbas, Asim and Lee, Mark and Shanavas, Niloofer and Kovatchev, Venelin and Ali, Mubashir </span>  
   <button onclick="toggleAbstract('abstract10')">Show abstract</button>  
   <div id="abstract10" class="abstract" style="display:none;">Named Entity Recognition (NER) in the tender and procurement domain is critical for tasks such as contract monitoring, supplier analysis, and compliance tracking. However, unlike general-purpose NER, no open-source datasets exist for Tender NER, largely due to data sensitivity and confidentiality restrictions. This scarcity limits the development of automated entity extraction models. To address this gap, we propose struct2unstruct, a data preparation pipeline that generates and annotates tender-specific datasets using large language models (LLMs). Starting from structured procurement data published by the Singapore government (2015–2021) available in English language, we employ Llama-3 to generate synthetic tender narratives in multiple writing styles, ensuring each contains at least one tender-related entity. Post-processing steps correct inconsistencies in dates, symbols, and entity formats. Entities are then annotated using a BIO tagging scheme through deterministic alignment with structured fields, followed by expert validation to ensure accuracy. This study focuses on data preparation and evaluation, not model training. The resulting dataset provides a scalable resource for future Tender NER research in low-resource environments. By releasing both the dataset and pipeline as open-source resources, we establish a foundation for advancing domain-adapted information extraction and automated tender entity recognition. </div>
 
   *  <font size="4"> <b> Link Prediction for Event Logs in the Process Industry </b> </font>
-  [poster](x)  
   <span style="color:gray"> Zhukova, Anastasia and Walton, Thomas and Lobmüller, Christian E. and Gipp, Bela </span>  
   <button onclick="toggleAbstract('abstract11')">Show abstract</button>  
   <div id="abstract11" class="abstract" style="display:none;">In the era of graph-based retrieval-augmented generation (RAG), link prediction is a significant preprocessing step for improving the quality of fragmented or incomplete domain-specific data for the graph retrieval. Knowledge management in the process industry uses RAG-based applications to optimize operations, ensure safety, and facilitate continuous improvement by effectively leveraging operational data and past insights. A key challenge in this domain is the fragmented nature of event logs in shift books, where related records are often kept separate, even though they belong to a single event or process. This fragmentation hinders the recommendation of previously implemented solutions to users, which is crucial in the timely problem-solving at live production sites. To address this problem, we develop a record linking model, which we define as a cross-document coreference resolution (CDCR) task. Record linking adapts the task definition of CDCR and combines two state-of-the-art CDCR models with the principles of natural language inference (NLI) and semantic text similarity (STS) to perform link prediction. The evaluation shows that our record linking model outperformed the best versions of our baselines, i.e., NLI and STS, by 28% (11.43 p) and 27.4% (11.21 p), respectively. Our work demonstrates that common NLP tasks can be combined and adapted to a domain-specific setting of the German process industry, improving data quality and connectivity in shift logs.</div>
@@ -101,7 +91,6 @@ title: RESOURCEFUL-2026
   <div id="abstract13" class="abstract" style="display:none;">Although the cultural (mis)alignment of Large Language Models (LLMs) has attracted increasing attention—often framed in terms of cultural bias—until recently there has been limited work on the design and development of datasets for cultural assessment. Here, we review existing approaches to such datasets and identify their main limitations. To address these issues, we propose design guidelines for annotators and report on the construction of a dataset built according to these principles. We further present a series of contrastive experiments conducted with this dataset. The results demonstrate that our design yields test sets with greater discriminative power, effectively distinguishing between models specialized for a given culture and those that are not, ceteris paribus.</div>
 
   *  <font size="4"> <b> Evaluating Large Language Model-based Natural Language Generation for Modular Dialog systems </b> </font>
-  [poster](x)  
   <span style="color:gray"> Emmerling, Vincent and Kowalski, Christoph and Robrecht-Hilbig, Amelie and Kopp, Stefan </span>  
   <button onclick="toggleAbstract('abstract14')">Show abstract</button>  
   <div id="abstract14" class="abstract" style="display:none;">While many dialogue systems currently use end-to-end solutions, modular systems offer greater control, sustainability, and more human-like dialogue. This makes them relevant, especially when aiming to study human behavior patterns in interactions or applying them to sensitive domains. In this paper, we develop an automated metric to measure the quality of an LLM-based NLG-component in a modular system based on the hallucination tendency and linguistic quality. We apply the metric to various language models and usage techniques and, based on the results, discuss the conditions a model must meet in order to be a good candidate for an NLG-component in a real-time capable dialogue system. Although such automated metrics cannot replace a real interaction study, they help to compare potential approaches of the individual modules. Therefore, they are indispensable when developing and testing modules in isolation. One advancement of the introduced metrics is that it is developed and tested on a German dataset, showing challenges when working with languages other than English and discrepancies to the abilities of
@@ -125,7 +114,6 @@ Generative AI assumed in current state-of-the-art literature.</div>
   </div>
 
   *  <font size="4"> <b> A multilingual hallucination benchmark: MultiWikiQHalluA </b> </font>
-  [poster](./slides/arhar-holdt-poster.pdf)  
   <span style="color:gray"> Thoresen, Freja and Smart, Dan Saattrup </span>  
   <button onclick="toggleAbstract('abstract18')">Show abstract</button>  
   <div id="abstract18" class="abstract" style="display:none;">
