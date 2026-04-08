@@ -8,6 +8,8 @@ navigation:
     url: /index.html
   - text: Programme
     url: /schedule.html
+  - text: Accepted papers
+    url: /papers.html
   - text: Keynote speakers
     url: /invited_speakers.html
   - text: Important dates
