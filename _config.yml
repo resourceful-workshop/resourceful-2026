@@ -12,6 +12,8 @@ navigation:
     url: /papers.html
   - text: Keynote speakers
     url: /invited_speakers.html
+  - text: Presentation details
+    url: /presentations.html
   - text: Important dates
     url: /dates.html
   - text: Submission details
