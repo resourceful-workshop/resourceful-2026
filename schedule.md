@@ -34,7 +34,7 @@ The workshop will take place on May 11, 2026.
 
 **11:40 - 12:40** Oral talks II
 
-* <b> 11:40 - 12:00: Cultural Grounding in Swedish: Extending an Everyday Knowledge Benchmark for LLMs </b> 
+* <b> 11:40 - 12:00: Cultural Grounding in Swedish: Extending an Everyday Knowledge Benchmark for LLMs </b>  
   <span style="color:gray"> Beloucif, Meriem and Sjons, Johan </span>  
  
 * <b> 12:00 - 12:20: Entity Linking for Faroese Using Large Language Models with Web Search </b>  
@@ -49,13 +49,13 @@ The workshop will take place on May 11, 2026.
 
 **14:40 - 15:40** Oral talks III
 
-*  <b> 14:40 - 15:00: SdQuAD: A Benchmark Question Answering Dataset for Low-resource Sindhi Language </b>
+*  <b> 14:40 - 15:00: SdQuAD: A Benchmark Question Answering Dataset for Low-resource Sindhi Language </b>  
   <span style="color:gray"> Ali, Wazir and Rafay, Muhammad and Ali, Nadia and Rehman, Amar </span>
 
-*  <b> 15:00 - 15:20: LLMs as Assistants for Data Annotation: Addressing Disagreement and Supporting Expert Processes </b> 
+*  <b> 15:00 - 15:20: LLMs as Assistants for Data Annotation: Addressing Disagreement and Supporting Expert Processes </b>  
   <span style="color:gray"> Andrade, Mark and Hefernan, Bláithín and Walsh, Abigail and Castilho, Sheila </span>
 
-* <b> 15:20 - 15:40: Annotation Quality in Aspect-Based Sentiment Analysis: A Case Study Comparing Experts, Students, Crowdworkers, and Large Language Models </b>
+* <b> 15:20 - 15:40: Annotation Quality in Aspect-Based Sentiment Analysis: A Case Study Comparing Experts, Students, Crowdworkers, and Large Language Models </b>  
   <span style="color:gray"> Donhauser, Niklas and Fehle, Jakob and Hellwig, Nils Constantin and Weinberger, Markus and Kruschwitz, Udo and Wolff, Christian </span>  
 
 **15:40 - 16:00** Lightning poster presentations
