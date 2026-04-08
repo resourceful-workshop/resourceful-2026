@@ -51,5 +51,5 @@ Make sure you have completed the following items:
 #### If you are presenting a poster (in-person)
 
   - The size of poster holders is 90cm x 150 cm and the format is vertical (Portrait). The Poster Boards cannot accommodate Landscape posters. You can print your poster in Portrait A0 (84,1 x 118,9cm).
-  - __Where can I print the poster in Mallorca?__
+  - __Where can I print the poster in Palma, Mallorca?__
     - TBD
