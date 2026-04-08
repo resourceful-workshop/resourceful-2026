@@ -13,7 +13,7 @@ title: RESOURCEFUL-2026
 Make sure you have completed the following items:
 
 1. Registration for RESOURCEFUL-2026   
-   **At least one author of each accepted paper must register for the workshop**, either on-site or online participation. Otherwise, the paper will not appear in the proceedings. Registration is available at: https://lrec2026.info/online-registration/.
+   **At least one author of each accepted paper must register for the workshop**, either on-site or online participation. Otherwise, the paper will not appear in the workshop proceedings (if your paper is archival). Registration is available at: https://lrec2026.info/online-registration/.
 
 2. We ask all authors to upload their materials in order to ensure smooth organisation of the workshop (the link will be distributed via email soon). Depending on the type of your presentation, here is what we are asking you for:
 
