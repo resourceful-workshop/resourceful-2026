@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESOURCEFUL-2025
+title: RESOURCEFUL-2026
 ---
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "." %}
@@ -8,60 +8,67 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
         {% endif %}
 
-# Accepted materials (archival and non-archival papers, abstracts; the order is random)
+# Accepted materials
 
-## Talks
+## Oral talks
 
-  *  <font size="4"> <b> Automatic Validation of the Non-Validated Spanish Speech Data of Common Voice 17.0 </b> </font>  
-  [slides](./slides/hernandez-mena-slides.pdf)  
-  <span style="color:gray"> Hernández Mena, Carlos Daniel and Scalvini, Barbara and Lág, Dávid í </span>  
-  <button onclick="toggleAbstract('abstract1')">Show Abstract</button>  
-  <div id="abstract1" class="abstract" style="display:none;">Mozilla Common Voice is a crowdsourced project that aims to create a public, multilingual dataset of voice recordings for training speech recognition models. In Common Voice, anyone can contribute by donating or validating recordings in various languages. However, despite the availability of many recordings in certain languages, a significant percentage remains unvalidated by users. This is the case for Spanish, where in version 17.0 of Common Voice, 75% of the 2,220 hours of recordings are unvalidated. In this work, we used the Whisper recognizer to automatically validate approximately 784 hours of recordings which are more than the 562 hours validated by users. To verify the accuracy of the validation, we developed a speech recognition model based on a version of NVIDIA-NeMo’s Parakeet, which does not have an official Spanish version. Our final model achieved a WER of less than 4% on the test and validation splits of Common Voice 17.0. Both the model and the speech corpus are publicly available on Hugging Face.</div>
+  *  <font size="4"> <b> Lost in Translation: Repurposing Semantic Similarity Benchmarks for Evaluating Lexical-Semantic Consistency in LLM-Based Machine Translation </b> </font>  
+  [slides](x)  
+  <span style="color:gray"> Ye, Quin and Bloem, Jelke </span>  
+  <button onclick="toggleAbstract('abstract1')">Show abstract</button>  
+  <div id="abstract1" class="abstract" style="display:none;">We propose and demonstrate a repurposing of the lexical similarity benchmark Multi-SimLex and the SimLex-999 family of resources for assessing the cross-lingual lexical-semantic consistency of multilingual large language models. While originally gathered for evaluating word embedding models, the parallel nature of the word pairs enables their use in machine translation settings. Using a manually verified subset of 500 word pairs from the Multi-SimLex dataset, we evaluate models’ ability to assess semantic similarity and perform translation between English and Mandarin through zero-shot prompting. We compare BLOOMZ and GPT-4’s similarity ratings against human-annotated benchmarks and examine translation consistency using our and other metrics, with GPT-4 showing stronger human alignment. As SimLex-999 and Multi-SimLex together cover a range of at least 25 languages, this approach has the potential to be extended to many language pairs including ones that don’t involve English, though it requires some manual checks.</div>
 
-  *  <font size="4"> <b> FoQA: A Faroese Question-Answering Dataset </b></font>
-  [slides](./slides/simonsen-slides.pdf)  
-  <span style="color:gray"> Simonsen, Annika and Nielsen, Dan Saattrup and Einarsson, Hafsteinn </span>  
-  <button onclick="toggleAbstract('abstract2')">Show Abstract</button>  
-  <div id="abstract2" class="abstract" style="display:none;">We present FoQA, a Faroese extractive question-answering (QA) dataset with 2,000 samples, created using a semi-automated approach combining Large Language Models (LLMs) and human validation. The dataset was generated from Faroese Wikipedia articles using GPT-4-turbo for initial QA generation, followed by question rephrasing to increase complexity and native speaker validation to ensure quality. We provide baseline performance metrics for FoQA across multiple models, including LLMs and BERT, demonstrating its effectiveness in evaluating Faroese QA performance. The dataset is released in three versions: a validated set of 2,000 samples, a complete set of all 10,001 generated samples, and a set of 2,395 rejected samples for error analysis.</div>
+  *  <font size="4"> <b> Bridging the Low Resource Gap in Historical Cryptology: A Multilingual Diachronic Synthetic Dataset for Reproducible Cryptanalysis </b></font>
+  [slides](x)  
+  <span style="color:gray"> Bruton, Micaella and Beloucif, Meriem and Megyesi, Beáta </span>  
+  <button onclick="toggleAbstract('abstract2')">Show abstract</button>  
+  <div id="abstract2" class="abstract" style="display:none;">Many NLP tasks suffer from limited aligned supervision in the target domain. Historical cipher decryption represents an extreme case: aligned plaintext–ciphertext pairs are scarce, access to decrypted archives is restricted, and prior work often relies on synthetic data that is neither released nor evaluated for realism. This limits reproducibility and obscures whether models trained on synthetic benchmarks transfer to archival conditions. We introduce HistCiph, the first publicly available multilingual collection of historically grounded plaintext–ciphertext datasets for classical ciphers. Spanning ten languages (Czech, Dutch, English, French, Hungarian, Icelandic, Italian, Polish, Spanish, Swedish) and multiple centuries, the collection combines diachronically balanced historical plaintext with independently generated homophonic substitution keys and controlled transcription noise. Synthetic generation is explicitly constrained by documented properties of historical ciphers, including multi-homophone allocation and variable-length codes. We validate the datasets using information-theoretic diagnostics—entropy, redundancy, frequency masking, and unicity distance—showing that ciphertext distributions approach theoretical bounds while preserving cross-linguistic variation. HistCiph provides a reproducible benchmark for neural decryption and alignment, and illustrates a principled framework for empirically grounded synthetic data generation in low-resource NLP.</div>
 
-  *  <font size="4"> <b> Annotating Attitude in Swedish Political Tweets </b> </font>
-  [slides](./slides/lindahl-slides.pdf)  
-  <span style="color:gray"> Lindahl, Anna </span>  
-  <button onclick="toggleAbstract('abstract4')">Show Abstract</button>  
-  <div id="abstract4" class="abstract" style="display:none;">There is a lack of Swedish datasets annotated for emotional and argumentative language. This work therefore presents an annotation procedure and a dataset of Swedish political tweets. The tweets are annotated for positive and negative attitude. Challenges with this type of annotation is identified and described. The evaluation shows that the annotators do not agree on where to annotate spans, but that they agree on labels. This is demonstrated with a new implementation of the agreement coefficient Krippendorff's unitized alpha.</div>
-
-  *  <font size="4"> <b> Voices of Luxembourg: Tackling Dialect Diversity in a Low-Resource Setting </b> </font>
-  [slides](./slides/hosseini-kivanani-slides.pdf)  
-  <span style="color:gray"> Hosseini-Kivanani, Nina and Schommer, Christoph and Gilles, Peter </span>  
-  <button onclick="toggleAbstract('abstract5')">Show Abstract</button>  
+  *  <font size="4"> <b> Cultural Grounding in Swedish: Extending an Everyday Knowledge Benchmark for LLMs </b> </font>
+  [slides](x)  
+  <span style="color:gray"> Beloucif, Meriem and Sjons, Johan </span>  
+  <button onclick="toggleAbstract('abstract3')">Show abstract</button>  
+  <div id="abstract4" class="abstract" style="display:none;">Benchmarks for evaluating Large Language Models (LLMs) on everyday knowledge across cultures and languages are increasingly used to assess cultural competence and contextual understanding. However, many multilingual extensions rely primarily on translated question–answer pairs, limiting their ability to capture locally grounded variation. In this work, we present a Swedish extension of an existing cross-cultural everyday knowledge benchmark, in which questions are translated into Swedish and answers are collected individually from five participants with diverse social and professional backgrounds. This design enables us to capture situated, naturally produced responses from a specific participant group rather than transferred or translated answer templates. We document the translation protocol, participants, and agreement analysis, and examine variation across participants as a signal of culturally contingent knowledge. We evaluate several state-of-the-art multilingual and instruction-tuned LLMs against the aggregated human responses and analyze model performance. Our results reveal that while models often approximate prototypical answers, they struggle with culturally specific nuances and intra-cultural variation. The Swedish extension provides a resource for studying culturally grounded evaluation and highlights the importance of human-generated local answers when benchmarking LLMs across languages.</div>
+          
+  *  <font size="4"> <b> Entity Linking for Faroese Using Large Language Models with Web Search </b> </font>
+  [slides](x)  
+  <span style="color:gray"> Simonsen, Annika and Debess, Iben Nyholm and Einarsson, Hafsteinn </span>  
+  <button onclick="toggleAbstract('abstract4')">Show abstract</button>  
   <div id="abstract5" class="abstract" style="display:none;">
-    Dialect classification is essential for preserving linguistic diversity, particularly in low-resource languages such as Luxembourgish. This study introduces one of the first systematic approaches to classifying Luxembourgish dialects, addressing phonetic, prosodic, and lexical variations across four major regions. We benchmarked multiple models, including state-of-the-art pre-trained speech models like Wav2Vec2, XLSR-Wav2Vec2, and Whisper, alongside traditional approaches such as Random Forest and CNN-LSTM. To overcome data limitations, we applied targeted data augmentation strategies and analyzed their impact on model performance. Our findings highlight the superior performance of CNN-Spectrogram and CNN-LSTM models while identifying the strengths and limitations of data augmentation. This work establishes foundational benchmarks and provides actionable insights for advancing dialectal NLP in Luxembourgish and other low-resource languages.
+    Entity linking connects text mentions to knowledge bases. For low-resource languages, entity linking has typically not been a research priority, as named entity recognition and knowledge base creation must first be addressed. We present the first study of entity linking for Faroese, a North Germanic language with approximately 70,000 speakers. Unlike traditional systems that rely on separate candidate retrieval and ranking components, we employ an end-to-end approach using GPT-5 with integrated web search. Our method prompts the model to directly identify and link named entities to Wikipedia pages through a three-tier fallback strategy: Faroese Wikipedia, English Wikipedia, and finally any available Wikipedia. We evaluate our approach on 1,010 manually annotated examples from a Faroese NER dataset, analyzing entity mentions across Person, Location, Organization, and Miscellaneous types. Human evaluation shows our system achieves 87.5% precision and 87.3% recall, with particularly strong performance on locations (93-95% precision, 92-95% recall). Persons are more challenging (86-88% precision, 72-83% recall). The majority of links (76.5%) point to Faroese Wikipedia, demonstrating the model’s ability to leverage language-specific knowledge bases. A Wikipedia API search baseline without any LLM achieves F1 = 0.57–0.60 on the same evaluation data, confirming that the LLM’s contextual reasoning provides substantial gains over simple search. We validate our approach across three models (GPT-5, Gemini 3 Flash, GPT-5.4 Mini), achieving F1 scores of 0.74–0.87 and confirming that the method generalizes across providers. This work establishes initial performance benchmarks for Faroese entity linking and demonstrates the viability of LLM-based approaches for low-resource languages.
   </div>
 
-  *  <font size="4"> <b> The Application of Corpus-Based Language Distance Measurement to the Diatopic Variation Study (on the Material of the Old Novgorodian Birchbark Letters) </b> </font>
-  [slides](./slides/afanasev-slides.pdf)  
-  <span style="color:gray"> Afanasev, Ilia and Lyashevskaya, Olga </span>  
-  <button onclick="toggleAbstract('abstract6')">Show Abstract</button>  
+  *  <font size="4"> <b> From Polyester Girlfriends to Blind Mice: Creating the First Pragmatics Understanding Benchmarks for Slovene </b> </font>
+  [slides](x)  
+  <span style="color:gray"> Brglez, Mojca and Vintar, Špela </span>  
+  <button onclick="toggleAbstract('abstract5')">Show abstract</button>  
   <div id="abstract6" class="abstract" style="display:none;">
-    The paper presents a computer-assisted exploration of a set of texts, where qualitative analysis complements the linguistically-aware vector-based language distance measurements, interpreting them through close reading and thus proving or disproving their conclusions. It proposes using a method designed for small raw corpora to explore the individual, chronological, and gender-based differences within an extinct single territorial lect, known only by a scarce collection of documents. The material under consideration is the Novgorodian birchbark letters, a set of rather small manuscripts (not a single one is more than 1000 tokens) that are witnesses of the Old Novgorodian lect, spoken on the territories of modern Novgorod and Staraya Russa at the first half of the first millennium CE. The study shows the existence of chronological variation, a mild degree of individual variation, and almost absent gender-based differences. Possible prospects of the study include its application to the newly discovered birchbark letters and using an outgroup for more precise measurements.
+    Large language models are demonstrating increasing capabilities, excelling at benchmarks once considered very difficult. As their capabilities grow, there is a need for more challenging evaluations that go beyond surface-level linguistic competence. The latter involves not only syntax and semantics but also pragmatics, i.e., understanding situational meaning shaped by context and linguistic and cultural norms. To contribute to this line of research, we introduce SloPragEval and SloPragMega, the first pragmatics understanding benchmarks for Slovene, comprising 405 multiple-choice questions. We discuss the difficulties of translation, describe the campaign to establish a human baseline, and report pilot evaluations with LLMs. Our results indicate that current models have substantially improved in their understanding of nuanced language but may still fail to infer implied speaker meaning in non-literal utterances, especially those that are culture-specific. We also observe a significant gap between proprietary and open-source models. Finally, we argue that benchmarks targeting nuanced language understanding and knowledge of the target culture must be designed with care, preferably constructed from native data, and validated with human responses.
   </div>
 
-  *  <font size="4"> <b> Multi-label Scandinavian Language Identification (SLIDE) </b> </font>
-  [slides](./slides/fedorova-slides.pdf)  
-  <span style="color:gray"> Fedorova, Mariia and Frydenberg, Jonas Sebulon and Handford, Victoria and Langø, Victoria Ovedie Chruickshank and Willoch, Solveig Helene and Midtgaard, Marthe Løken and Scherrer, Yves and Mæhlum, Petter and Samuel, David </span>  
-  <button onclick="toggleAbstract('abstract7')">Show Abstract</button>  
+  *  <font size="4"> <b> SdQuAD: A Benchmark Question Answering Dataset for Low-resource Sindhi Language </b> </font>
+  [slides](x)  
+  <span style="color:gray"> Ali, Wazir and Rafay, Muhammad and Ali, Nadia and Rehman, Amar </span>  
+  <button onclick="toggleAbstract('abstract6')">Show abstract</button>  
   <div id="abstract7" class="abstract" style="display:none;">
-    Identifying closely related languages at sentence level is difficult, in particular because it is often impossible to assign a sentence to a single language. In this paper, we focus on multi-label sentence-level Scandinavian language identification (LID) for Danish, Norwegian Bokmål, Norwegian Nynorsk, and Swedish. We present the Scandinavian Language Identification and Evaluation, SLIDE, a manually curated multi-label evaluation dataset and a suite of LID models with varying speed–accuracy tradeoffs. We demonstrate that the ability to identify multiple languages simultaneously is necessary for any accurate LID method, and present a novel approach to training such multi-label LID models.
+    Question answering (QA) datasets are crucial for developing and evaluating monolingual and multilingual language models, yet low-resource languages like Sindhi lack open-source QA resources. We introduce SdQuAD, a novel open-source textual QA dataset for the low-resource Sindhi language, comprising more than 14K QA pairs curated and annotated by native speakers using the Label Studio. Sourced from diverse domains, including news, history, science, geography, business, and tourism, SdQuAD supports both extractive and abstractive QA tasks while capturing Sindhi’s linguistic diversity. We assess annotation quality using span-level agreement and evaluate extractive performance with Exact Match (EM), F1 score, and a TF-IDF baseline. Additionally, we fine-tune mBERT, XLM-RoBERTa, and mT5 models on SdQuAD, benchmarking their performance to demonstrate the dataset’s utility.
   </div>
 
-  *  <font size="4"> <b> OCR Error Post-Correction with LLMs in Historical Documents: No Free Lunches </b> </font>
-  [slides](./slides/kanerva-slides.pdf)  
-  <span style="color:gray"> Kanerva, Jenna and Ledins, Cassandra and Käpyaho, Siiri and Ginter, Filip </span>  
-  <button onclick="toggleAbstract('abstract8')">Show Abstract</button>  
+  *  <font size="4"> <b> LLMs as Assistants for Data Annotation: Addressing Disagreement and Supporting Expert Processes </b> </font>
+  [slides](x)  
+  <span style="color:gray"> Andrade, Mark and Hefernan, Bláithín and Walsh, Abigail and Castilho, Sheila </span>  
+  <button onclick="toggleAbstract('abstract7')">Show abstract</button>  
   <div id="abstract8" class="abstract" style="display:none;">
-    Optical Character Recognition (OCR) systems often introduce errors when transcribing historical documents, leaving room for post-correction to improve text quality. This study evaluates the use of open-weight LLMs for OCR error correction in historical English and Finnish datasets. We explore various strategies, including parameter optimization, quantization, segment length effects, and text continuation methods. Our results demonstrate that while modern LLMs show promise in reducing character error rates (CER) in English, a practically useful performance for Finnish was not reached. Our findings highlight the potential and limitations of LLMs in scaling OCR post-correction for large historical corpora.
+    This paper investigates the potential of Large Language Models to assist human annotation pipelines, with a particular focus on supporting the development of expert-informed annotation guidelines for document-level content categorisation. We present three experiments exploring distinct roles for LLMs in annotation: as annotators, as domain experts assisting in disagreement resolution, and as analysts of annotator discussions. Using GPT-4.5 and Claude Sonnet 4, we evaluate LLM-generated annotation guidelines for a document-level classification tasks in terms of coverage, applicability, and usefulness. Preliminary results are mixed-to-positive, with evidence that LLMs can provide useful support across different stages of the annotation pipeline, particularly when supplied with rich contextual information such as prior human annotations and annotator discussions.
   </div>
 
+  *  <font size="4"> <b> Annotation Quality in Aspect-Based Sentiment Analysis: A Case Study Comparing Experts, Students, Crowdworkers, and Large Language Models </b> </font>
+  [slides](x)  
+  <span style="color:gray"> Donhauser, Niklas and Fehle, Jakob and Hellwig, Nils Constantin and Weinberger, Markus and Kruschwitz, Udo and Wolff, Christian </span>  
+  <button onclick="toggleAbstract('abstract8')">Show abstract</button>  
+  <div id="abstract8" class="abstract" style="display:none;">
+    Aspect-Based Sentiment Analysis (ABSA) enables fine-grained opinion analysis by identifying sentiments toward specific aspects or targets within a text. While ABSA has been widely studied for English, research on other languages such as German remains limited, largely due to the lack of high-quality annotated datasets. This paper examines how different annotation sources influence the development of German ABSA. To this end, an existing dataset is re-annotated by experts to establish a ground truth, which serves as a reference for evaluating annotations produced by students, crowdworkers, Large Language Models (LLMs), and experts. Annotation quality is compared using Inter-Annotator Agreement (IAA) and its impact on downstream model performance for different ABSA subtasks. The evaluation focuses on Aspect Category Sentiment Analysis (ACSA) and Target Aspect Sentiment Detection (TASD). We apply State-of-the-Art (SOTA) methods for ABSA, including BERT-, T5-, and LLaMA-based approaches to assess performance differences, spanning fine-tuning and in-context learning with instruction prompts. The findings provide practical insights into trade-offs between annotation reliability, and efficiency, offering guidance for dataset construction in under-resourced Natural Language Processing (NLP) scenarios.
+  </div>
 
 ## Posters
 
