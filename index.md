@@ -12,31 +12,16 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 
 ## Important information
 
-The first CfP is out!
-
-<!---
-**Room name: LÄÄNE-EUROOPA, first floor from the lobby entry**, https://www.hestiahotels.com/europa/en/conference/ruum/  
-**Poster Session Location: 1st floor (ground floor is E floor) from the lobby area near the registration desk.**
-
-* Posters can be mounted starting early morning on March 2. There are mounting materials provided. Poster stands have a workshop name on them, feel free to place your poster on any stand with RESOURCEFUL as a name.
-* Posters should be removed by the end of the day on March 2.
-
-Registration is open right at the lobby of the venue.
+**Room name: TBD**  
+**Poster Session Location: TBD**
 
 Some lunch options:
 * Lunch is not provided on the workshop days
-* The conference venue has a restaurant, that possibly has a soup buffet; there is also a general menue (but it could get too crowded and slow)
-* [Rotermanni kvartal](https://rotermann.ee/en/eat-shop-experience/) (approximately 250 meters away) has many good restaurants
-* [Vapiano](https://maps.app.goo.gl/ckDSvPUofFZSNdR36)
-* [Nautica](https://maps.app.goo.gl/4X2aKqXCGLcZ6coM7) shopping centre (approximately 50 meters away)
-* Port area: [Resturant Armudu](https://maps.app.goo.gl/ZS4aJJmPhQqJQhCT8), [Kochi Aidad](https://maps.app.goo.gl/HBwFQEFNTFhhZ7Wt5), etc.
+* TBD
 
-We can issue a certificate of attendance and/or a certificate of presentation for RESOURCEFUL 2025 upon request. If you need one, please email resourceful [at] listserv [dot] gu [dot] se. In your email subject, specify either "RESOURCEFUL 2025 – Certificate of Attendance Request" or "RESOURCEFUL 2025 – Certificate of Presentation Request". Additionally, include the names of the authors, the title(s) of the paper(s), and the presentation mode in your email. Describe any additional requests in your email. For certificates of attendance or presentation for NoDaLiDa 2025, please contact the local organisers of NoDaLiDa 2025.
+We can issue a certificate of attendance and/or a certificate of presentation for RESOURCEFUL 2026 upon request. If you need one, please email resourceful [at] listserv [dot] gu [dot] se. In your email subject, specify either "RESOURCEFUL 2026 – Certificate of Attendance Request" or "RESOURCEFUL 2026 – Certificate of Presentation Request". Additionally, include the names of the authors, the title(s) of the paper(s), and the presentation mode in your email. Describe any additional requests in your email. For certificates of attendance or presentation for LREC 2026, please contact the local organisers of LREC 2026.
 
-The proceedings are now available in the University of Tartu Library, and [they can be accessed here](https://dspace.ut.ee/collections/07b1b4a0-f4ef-4bb7-95c0-5096c8b048dd)
-
-Proceedings will also be published in the ACL Anthology closer to the date of the workshop.
--->
+The proceedings will be published in the ACL Anthology, link will be available soon.
 
 ## Workshop description
 
@@ -46,7 +31,6 @@ The language resources community has long provided the empirical foundation for 
 This paradigm introduces new challenges and risks, particularly in the domain of evaluation. These shifting dynamics raise fundamental questions about how we evaluate models, ensure data transparency, and preserve the integrity of linguistic resources. The RESOURCEFUL 2026 workshop aims therefore at stimulating a critical dialogue on the methodological, ethical, and practical dimensions of data creation, authenticity, and representation in the age of LLMs.
 
 The workshop aims to bring together researchers involved in the creation, validation, and evaluation of next-generation language resources. We invite contributions from all areas of language resource research, especially on (i) corpus and annotation design, (ii) evaluation and benchmarking methodologies, (iii) low-resource NLP and linguistic diversity, (iv) synthetic data generation and validation, (v) ethics, data governance, and reproducibility. We aim to promote a discussion between traditional resource builders, evaluation specialists, linguists, anthropologists, field researchers and LLM researchers, creating a shared forum to redefine the role of resources in NLP.
-
 
 ## Topics of interest
 
