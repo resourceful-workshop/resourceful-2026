@@ -16,7 +16,6 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 **Poster Session Location: TBD**
 
 Some lunch options:
-* Lunch is not provided on the workshop days
 * TBD
 
 We can issue a certificate of attendance and/or a certificate of presentation for RESOURCEFUL 2026 upon request. If you need one, please email resourceful [at] listserv [dot] gu [dot] se. In your email subject, specify either "RESOURCEFUL 2026 – Certificate of Attendance Request" or "RESOURCEFUL 2026 – Certificate of Presentation Request". Additionally, include the names of the authors, the title(s) of the paper(s), and the presentation mode in your email. Describe any additional requests in your email. For certificates of attendance or presentation for LREC 2026, please contact the local organisers of LREC 2026.
