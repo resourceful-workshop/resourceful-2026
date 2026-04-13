@@ -52,4 +52,10 @@ Make sure you have completed the following items:
 
   - The size of poster holders is 90cm x 150 cm and the format is vertical (Portrait). The Poster Boards cannot accommodate Landscape posters. You can print your poster in Portrait A0 (84,1 x 118,9cm).
   - __Where can I print the poster in Palma, Mallorca?__
-    - TBD
+    - It is essential to send the poster file before **Monday, May 4, 2026** (non-negotiable deadline) to the following email address: jmmilian@impresrapit.com. The price for printing an A0 poster is €35.20 + VAT.
+    - Printing place:
+      Fotocopistería Impresrapit SL  
+      Tel.: +34 971 71 47 72  
+      Opening hours: 09:00–14:00 and 16:00–19:00 (CET)  
+      Closed: April 2–12
+      The email must include: Full billing details (name, address, ID/passport number) and provide delivery details: LREC26 Conference – Congress Center. It is important to note that payment is the responsibility of the requester. Printing will only begin once full payment has been received. The printing company will contact you directly with payment instructions. Your printed poster will be delivered to the conference venue and will be available at the registration desk on May 11. Given all this, we strongly recommend bringing your poster already printed, as this is the safest option.
