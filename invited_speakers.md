@@ -32,7 +32,7 @@ title: RESOURCEFUL-2026
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <img src="{{basepath}}/images/speakers/Torrent.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/Torrent.jpeg" class="headshot">
         <a href="https://www.tiagotorrent.com" class="headshotaffiliation"> Tiago Torrent </a>
         <div class="headshotname"> Federal University of Juiz de Fora, Brazil </div>
     </div>
