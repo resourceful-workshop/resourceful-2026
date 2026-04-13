@@ -32,10 +32,20 @@ title: RESOURCEFUL-2026
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <!-- <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot"> -->
+        <img src="{{basepath}}/images/speakers/Torrent.jpg" class="headshot">
         <a href="https://www.tiagotorrent.com" class="headshotaffiliation"> Tiago Torrent </a>
         <div class="headshotname"> Federal University of Juiz de Fora, Brazil </div>
     </div>
+</div>
+
+**Bio**  
+<div style="text-align: justify;">
+Tiago Torrent is a Professor of Linguistics at the Portuguese Language and Linguistics Department of the Federal University of Juiz de Fora, in Brazil. He earned a doctorate degree in Cognitive Linguistics from the Federal University of Rio de Janeiro with a Visiting Researcher period at the Linguistics Department of the University of California, Berkeley. Since 2010, he is the head of the FrameNet Brasil Computational Linguistics Lab, conducting research on Multimodal NLP and AI with Semantic Frames and Grammatical Constructions. He was awarded the ABRALIN Language Technology and Innovation Prize by the Brazilian Linguistics Association, and is a Research Productivity Grantee of the Brazilian National Research Council for Scientific and Technological Development.
+</div>
+
+**Talk: Interpretability at Scale: Resources meet AI for Societally Grounded Applications**  
+<div style="text-align: justify;">
+The recent success of Large Language Models (LLMs) across a wide range of canonical Natural Language Processing (NLP) tasks has contributed to the perception that such models may, in principle, obviate the need for costly, labor-intensive linguistic resources. However, for both fine-grained language analysis and societally grounded applications, reliance on LLMs alone often falls short in terms of transparency, interpretability, and methodological accountability. In this talk, I argue that LLMs and curated linguistic resources should be viewed not as competing paradigms, but as complementary components of a scalable and interpretable AI ecosystem. I explore how their integration can support the expansion of human-curated, fine-grained semantic analysis while preserving analytical rigor. In particular, I present ongoing work on the semi-automation of frame-based semantic annotation, aimed at building an AI systems that detect underreporting and provide early warnings of gender-based violence in electronic medical records. I conclude by outlining a set of methodological guidelines for enhancing the scalability of linguistic resources without compromising interpretability, with broader implications for the development of responsible and societally impactful NLP systems.
 </div>
 
 
