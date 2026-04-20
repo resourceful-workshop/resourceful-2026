@@ -12,7 +12,7 @@ title: RESOURCEFUL-2026
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <img src="{{basepath}}/images/speakers/Fisel.jpeg" class="headshot">
+        <img src="{{basepath}}/images/speakers/Fishel.jpg" class="headshot">
         <a href="https://www.etis.ee/CV/Mark_Fišel/eng" class="headshotaffiliation"> Mark Fišel </a>
         <div class="headshotname"> Institute of Computer Science, University of Tartu, Estonia </div>
     </div>
