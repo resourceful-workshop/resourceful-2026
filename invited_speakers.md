@@ -12,10 +12,20 @@ title: RESOURCEFUL-2026
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <!-- <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot"> -->
+        <img src="{{basepath}}/images/speakers/Fisel.jpeg" class="headshot">
         <a href="https://www.etis.ee/CV/Mark_Fišel/eng" class="headshotaffiliation"> Mark Fišel </a>
-        <div class="headshotname"> University of Tartu, Estonia </div>
+        <div class="headshotname"> Institute of Computer Science, University of Tartu, Estonia </div>
     </div>
+</div>
+
+**Bio**  
+<div style="text-align: justify;">
+Mark Fishel is a professor of natural language processing at the Institute of Computer Science, University of Tartu, Estonia. After defending his PhD in 2011, he was a post-doctoral researcher at the University of Zurich till 2015. Since then, he is the head of chair of NLP at the University of Tartu, doing research, collaboration, teaching and supervision. His main topics of research are machine translation and multilingual language models, low-resource methods in text and speech processing as well as model uncertainty and interpretability. He is a PI at the Estonian Center of Excellence in AI and a member of the Estonian Language Council.
+</div>
+
+**Talk: Translating and modelling under-resourced languages and dialects, and how (not) to do it**  
+<div style="text-align: justify;">
+Most languages and dialects of the world have few speakers, low amounts of text and speech resources, as well as lack support in existing language and speech processing tools. Interestingly, these three measures do not necessarily correlate. This talk will highlight the challenges and pitfalls of working with extremely under-resourced languages and dialects, including the diversity in how these are used and spoken -- and how, when modelling them with NLP, ignoring this diversity can actively harm the language itself. I will present our work spanning the last 5 years on collecting resources and developing language, translation and speech models for languages and dialects of the Finno-Ugric family, members of which range from mid-resourced languages with millions of speakers to extremely under-resourced and critically endangered cases. This ongoing work has been a source of diverse experience, which can be transferred to other language families and similar efforts.
 </div>
 
 <hr>
