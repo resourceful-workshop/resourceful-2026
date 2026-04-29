@@ -32,7 +32,7 @@ Most languages and dialects of the world have few speakers, low amounts of text 
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <img src="{{basepath}}/images/speakers/Gavriilidou" class="headshot">
+        <img src="{{basepath}}/images/speakers/Gavriilidou.jpg" class="headshot">
         <a href="https://www.ilsp.gr/en/members/gavriliidou-maria/" class="headshotaffiliation"> Maria Gavriilidou </a>
         <div class="headshotname"> Institute for Language and Speech Processing (ILSP) / Athena Research Center, Athens, Greece </div>
     </div>
