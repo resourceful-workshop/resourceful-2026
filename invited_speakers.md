@@ -32,10 +32,20 @@ Most languages and dialects of the world have few speakers, low amounts of text 
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <!-- <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot"> -->
+        <img src="{{basepath}}/images/speakers/Gavriilidou" class="headshot">
         <a href="https://www.ilsp.gr/en/members/gavriliidou-maria/" class="headshotaffiliation"> Maria Gavriilidou </a>
-        <div class="headshotname"> Institute for Language and Speech Processing / RC Athena, Greece </div>
+        <div class="headshotname"> Institute for Language and Speech Processing (ILSP) / Athena Research Center, Athens, Greece </div>
     </div>
+</div>
+
+**Bio**  
+<div style="text-align: justify;">
+Maria Gavriilidou is a linguist, senior researcher at the Institute for Language and Speech Processing (ILSP) / Athena Research Center, Athens, Greece. Her research interests focus on the areas of corpus linguistics, digital language resources and metadata, infrastructures for language resources and language technologies, computational and electronic lexicography. She is deputy Director of the CLARIN:EL Infrastructure for Language Resources and Technologies, while she has also served as the Head of the Electronic Lexicography Department of ILSP. She has coordinated several European and national projects in the above-mentioned fields. She has taught Electronic Lexicography at various Postgraduate Courses at Universities of Athens and supervised numerous theses. She has published widely in conferences and journals, while she has also served as the scientific lead of various printed and electronic dictionaries, among which the reference dictionary used in secondary education in Greece.
+</div>
+
+**Talk: Language resources infrastructures in the LLMs era: role, scope, correlation and future perspectives**  
+<div style="text-align: justify;">
+Language resources infrastructures act as aggregators and distributors of language data and related processing tools and services, either to the research community or to the industry. Infrastructures collect, document, curate and distribute certified digital language resources, tools and language processing services. They serve communities mainly specializing in Language Studies, Language Technology, Digital Humanities, Social and Political Sciences, which have been highly affected by the widespread prevalence of AI and specifically LLMs. I will discuss if and how the appearance of LLMs has affected language resource infrastructures,  and if their role and scope need to change in order to remain true to their mandate and to successfully serve the best interest of their users, while at the same time adapting to the scientific evolutions of the field. 
 </div>
 
 <hr>
