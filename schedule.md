@@ -20,7 +20,7 @@ The workshop will take place on May 11, 2026.
 
 **9:05 - 9:45** <b> Keynote I, Mark Fišel
 
-**9:45 - 10:25** Oral talks I
+**9:45 - 10:25** Oral talks I (session chair: Barbara Scalvini)
 
   * <b> 9:45 - 10:05: Lost in Translation: Repurposing Semantic Similarity Benchmarks for Evaluating Lexical-Semantic Consistency in LLM-Based Machine Translation </b>  
   <span style="color:gray"> Ye, Quin and Bloem, Jelke </span>
@@ -30,7 +30,7 @@ The workshop will take place on May 11, 2026.
 
 **10:25 - 11:00** Coffee break
 
-**11:00 - 11:40** <b> Keynote II, Tiago Timponi Torrent
+**11:00 - 11:40** <b> Keynote II, Tiago Timponi Torrent (keynote chair: Dana Dannélls)
 
 **11:40 - 12:40** Oral talks II
 
@@ -45,9 +45,9 @@ The workshop will take place on May 11, 2026.
 
 **12:40 - 14:00** Lunch
 
-**14:00 - 14:40** <b> Keynote III, Maria Gavriilidou
+**14:00 - 14:40** <b> Keynote III, Maria Gavriilidou (keynote chair: Nikolai Ilinykh)
 
-**14:40 - 15:40** Oral talks III
+**14:40 - 15:40** Oral talks III (session chair: Hafsteinn Einarsson)
 
 *  <b> 14:40 - 15:00: SdQuAD: A Benchmark Question Answering Dataset for Low-resource Sindhi Language </b>  
   <span style="color:gray"> Ali, Wazir and Rafay, Muhammad and Ali, Nadia and Rehman, Amar </span>
@@ -62,7 +62,7 @@ The workshop will take place on May 11, 2026.
 
 **16:00 - 17:00** Poster session and coffee break
 
-**17:00 - 17:55** Panel discussion with Tiago Timponi Torrent (Federal University of Juiz de Fora), Bolette Sandford Pedersen (University of Copenhagen), Darja Fišer (Institute of Contemporary History, Ljubljana), Daan van Esch (Google), Mark Fišel (University of Tartu, Estonia).
+**17:00 - 17:55** Panel discussion with Tiago Timponi Torrent (Federal University of Juiz de Fora), Bolette Sandford Pedersen (University of Copenhagen), Darja Fišer (Institute of Contemporary History, Ljubljana), Daan van Esch (Google), Mark Fišel (University of Tartu, Estonia). Moderator: Nikolai Ilinykh.
 
 **17:55 - 18:00** Closing
 
