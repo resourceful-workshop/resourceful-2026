@@ -30,7 +30,7 @@ The workshop will take place on May 11, 2026.
 
 **10:25 - 11:00** Coffee break
 
-**11:00 - 11:40** <b> Keynote II, Tiago Timponi Torrent (keynote chair: Dana Dannélls)
+**11:00 - 11:40** <b> Keynote II, Tiago Timponi Torrent </b> (keynote chair: Dana Dannélls)  
 
 **11:40 - 12:40** Oral talks II
 
