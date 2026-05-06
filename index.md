@@ -12,7 +12,8 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 
 ## Important information
 
-**Room name: TBD**  
+**Room name: Portixol 2**. The [room](https://melia-palma-bay.firstview.us/en/portixol-2-melia-palma-bay) is located in the [Hotel Melià Palma Bay](https://maps.app.goo.gl/46Qa1x3Dc5yjxUwdA). The hotel is connected to Palau de Congressos de Palma via a bridge corridor.  
+
 **Poster Session Location: TBD**
 
 Some lunch options:
