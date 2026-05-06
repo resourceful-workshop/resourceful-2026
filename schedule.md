@@ -18,9 +18,9 @@ The workshop will take place on May 11, 2026.
 
 **9:00 - 9:05** Welcome
 
-**9:05 - 9:45** <b> Keynote I, Mark Fišel
+**9:05 - 9:45** <b> Keynote I, Mark Fišel </b> (keynote chair: )
 
-**9:45 - 10:25** Oral talks I (session chair: Barbara Scalvini)
+**9:45 - 10:25** <b> Oral talks I </b> (session chair: Barbara Scalvini)
 
   * <b> 9:45 - 10:05: Lost in Translation: Repurposing Semantic Similarity Benchmarks for Evaluating Lexical-Semantic Consistency in LLM-Based Machine Translation </b>  
   <span style="color:gray"> Ye, Quin and Bloem, Jelke </span>
@@ -32,7 +32,7 @@ The workshop will take place on May 11, 2026.
 
 **11:00 - 11:40** <b> Keynote II, Tiago Timponi Torrent </b> (keynote chair: Dana Dannélls)  
 
-**11:40 - 12:40** Oral talks II
+**11:40 - 12:40** <b> Oral talks II </b> (session chair: )
 
 * <b> 11:40 - 12:00: Cultural Grounding in Swedish: Extending an Everyday Knowledge Benchmark for LLMs </b>  
   <span style="color:gray"> Beloucif, Meriem and Sjons, Johan </span>  
@@ -45,9 +45,9 @@ The workshop will take place on May 11, 2026.
 
 **12:40 - 14:00** Lunch
 
-**14:00 - 14:40** <b> Keynote III, Maria Gavriilidou (keynote chair: Nikolai Ilinykh)
+**14:00 - 14:40** <b> Keynote III, Maria Gavriilidou </b> (keynote chair: Nikolai Ilinykh)
 
-**14:40 - 15:40** Oral talks III (session chair: Hafsteinn Einarsson)
+**14:40 - 15:40** <b> Oral talks III </b> (session chair: Hafsteinn Einarsson)
 
 *  <b> 14:40 - 15:00: SdQuAD: A Benchmark Question Answering Dataset for Low-resource Sindhi Language </b>  
   <span style="color:gray"> Ali, Wazir and Rafay, Muhammad and Ali, Nadia and Rehman, Amar </span>
