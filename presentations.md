@@ -33,11 +33,12 @@ Make sure you have completed the following items:
       3. We will print QR codes and place them next to the list of virtual posters at the conference venue. Workshop participants can then scan and view the materials.
 
    6. **Lightning talks**:
-      1. Each poster presenter may give a short talk (max. 2 minutes).
-      2. A dedicated slot for lightning talks is included in the workshop programme.
-      3. Both on-site and online poster presenters are welcome. However, this option is particularly intended for those unable to attend in person.
-      4. The presentation order follows the sequence of posters listed in the Programme tab.
-      5. [OPTIONAL] You may also upload a video of your lightning talk via the provided link. If you are unable to give the lightning talk, we will play the video on your behalf.
+      1. Please upload the slides for your lightning talk if you are presenting in person.
+      2. Each poster presenter may give a short talk (max. 2 minutes).
+      3. A dedicated slot for lightning talks is included in the workshop programme.
+      4. Both on-site and online poster presenters are welcome. However, this option is particularly intended for those unable to attend in person.
+      5. The presentation order follows the sequence of posters listed in the Programme tab.
+      6. [OPTIONAL] You may also upload a video of your lightning talk via the provided link. If you are unable to give the lightning talk, we will play the video on your behalf.
 
 ### What type of presentation do you have?
 
