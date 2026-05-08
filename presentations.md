@@ -23,7 +23,7 @@ Make sure you have completed the following items:
    2. For **poster in-person** presentations [OPTIONAL]:
       1. Upload the digital version of your poster.
 
-   3. For **oral online** presentations:
+   3. For **oral online** presentations [OPTIONAL]:
       1. Upload slides of your talk.
 
    4. For **poster online** presentations [OPTIONAL]:  
@@ -37,7 +37,7 @@ Make sure you have completed the following items:
       2. A dedicated slot for lightning talks is included in the workshop programme.
       3. Both on-site and online poster presenters are welcome. However, this option is particularly intended for those unable to attend in person.
       4. The presentation order follows the sequence of posters listed in the Programme tab.
-      5. You may also upload a video of your lightning talk via the provided link. If you are unable to give the lightning talk, we will play the video on your behalf.
+      5. [OPTIONAL] You may also upload a video of your lightning talk via the provided link. If you are unable to give the lightning talk, we will play the video on your behalf.
 
 ### What type of presentation do you have?
 
