@@ -20,7 +20,7 @@ Make sure you have completed the following items:
    1. For **oral in-person** presentations:
       1. Upload slides of your talk.
 
-   2. For **poster in-person** presentations:
+   2. For **poster in-person** presentations [OPTIONAL]:
       1. Upload the digital version of your poster.
 
    3. For **oral online** presentations:
