@@ -16,6 +16,21 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 
 **Poster Session Location: TBD**
 
+## Proceedings
+
+<iframe
+  src="{{ basepath }}/W55.pdf"
+  width="100%"
+  height="800px"
+  style="border: 1px solid #ccc;">
+</iframe>
+
+<p>
+  <a href="{{ basepath }}/W55.pdf" download>
+    Download the proceedings
+  </a>
+</p>
+
 Some lunch options:
 * TBD
 
