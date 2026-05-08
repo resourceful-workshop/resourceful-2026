@@ -62,7 +62,7 @@ The workshop will take place on May 11, 2026.
 
 **16:00 - 17:00** Poster session and coffee break
 
-**17:00 - 17:55** Panel discussion with Tiago Timponi Torrent (Federal University of Juiz de Fora), Bolette Sandford Pedersen (University of Copenhagen), Darja Fišer (Institute of Contemporary History, Ljubljana), Daan van Esch (Google), Mark Fišel (University of Tartu, Estonia). Moderator: Nikolai Ilinykh.
+**17:00 - 17:55** Panel discussion with Tiago Timponi Torrent (Federal University of Juiz de Fora), Bolette Sandford Pedersen (University of Copenhagen), Darja Fišer (Institute of Contemporary History, Ljubljana), Daan van Esch (Google), Mark Fišel (University of Tartu, Estonia), Maria Gavriilidou (Institute for Language and Speech Processing (ILSP) / Athena Research Center). Moderator: Nikolai Ilinykh.
 
 **17:55 - 18:00** Closing
 
