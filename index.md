@@ -31,7 +31,7 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
   </a>
 </p>
 
-The proceedings are now available through the LREC 2026 website: https://lrec2026.info/workshops-and-tutorials/workshop-and-tutorials-schedule. The proceedings are expected to be added to the https://lrec.elra.info website in the week of the workshop.
+The proceedings are now available through the [LREC 2026 website](https://lrec2026.info/workshops-and-tutorials/workshop-and-tutorials-schedule). The proceedings are expected to be added to the [https://lrec.elra.info][https://lrec.elra.info] website in the week of the workshop.
 
 Some lunch options near the conference venue:
 * There will be food trucks just outside the conference venue. Lunch boxes will also be available in the Palau de Congressos.
