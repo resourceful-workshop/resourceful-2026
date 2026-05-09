@@ -19,20 +19,21 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 **Zoom link for registered participants and presenters**:
 
 1. The link is available ONLY through the CONFlux app.
-2. Go to the app, open ``Schedule''.
+2. Go to the app, open "Schedule".
 3. Choose our workshop from the list.
-4. Select ``Private'' bu changing the tab.
-5. Zoom Session link is then available, it is in grey, but it works. Click on it and join the session. If all is successful, you are supposed to end up on the following app page:
+4. Select "Private" by changing the tab. If all is successful, you are supposed to end up on the following app page:
 
-![](./images/conflux_page_example.jpg)
+<img src="./images/conflux_page_example.jpg" style="max-width: 500px; width: 100%; height: auto;">
+
+5. Zoom Session link is then available, it is in grey, but it works. Click on it and join the session.
 
 ## Proceedings
 
 <iframe
   src="{{ basepath }}/W55.pdf"
   width="100%"
-  height="800px"
-  style="border: 1px solid #ccc;">
+  height="600px"
+  style="border: 1px solid #ccc; max-width: 900px;">
 </iframe>
 
 <p>
