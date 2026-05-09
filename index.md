@@ -12,9 +12,9 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 
 ## Important information
 
-**Room name: Portixol 2**. The [room](https://melia-palma-bay.firstview.us/en/portixol-2-melia-palma-bay) is located in the [Hotel Melià Palma Bay](https://maps.app.goo.gl/46Qa1x3Dc5yjxUwdA). The hotel is connected to Palau de Congressos de Palma via a bridge corridor.  
+**Room name: Portixol 2**. The [room](https://melia-palma-bay.firstview.us/en/portixol-2-melia-palma-bay) is located on the 3rd floor of the [Hotel Melià Palma Bay](https://maps.app.goo.gl/46Qa1x3Dc5yjxUwdA). The hotel is connected to Palau de Congressos de Palma via a bridge corridor.  
 
-**Poster Session Location: TBD**
+**Poster Session Location**: [Menorca Hall](https://melia-palma-bay.firstview.us/en/Hall-menorca) situated on the 3rd floor of the Palau de Congressos.
 
 ## Proceedings
 
@@ -31,8 +31,10 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
   </a>
 </p>
 
-Some lunch options:
-* TBD
+The proceedings are now available through the LREC 2026 website: https://lrec2026.info/workshops-and-tutorials/workshop-and-tutorials-schedule. The proceedings are expected to be added to the https://lrec.elra.info website in the week of the workshop.
+
+Some lunch options near the conference venue:
+* There will be food trucks just outside the conference venue. Lunch boxes will also be available in the Palau de Congressos.
 
 We can issue a certificate of attendance and/or a certificate of presentation for RESOURCEFUL 2026 upon request. If you need one, please email resourceful [at] listserv [dot] gu [dot] se. In your email subject, specify either "RESOURCEFUL 2026 – Certificate of Attendance Request" or "RESOURCEFUL 2026 – Certificate of Presentation Request". Additionally, include the names of the authors, the title(s) of the paper(s), and the presentation mode in your email. Describe any additional requests in your email. For certificates of attendance or presentation for LREC 2026, please contact the local organisers of LREC 2026.
 
