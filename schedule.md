@@ -18,7 +18,7 @@ The workshop will take place on May 11, 2026.
 
 **9:00 - 9:05** Welcome
 
-**9:05 - 9:45** <b> Keynote I, Mark Fišel </b> (keynote chair: )
+**9:05 - 9:45** <b> Keynote I, Mark Fišel </b> (keynote chair: Jörg Tiedemann)
 
 **9:45 - 10:25** <b> Oral talks I </b> (session chair: Barbara Scalvini)
 
@@ -32,7 +32,7 @@ The workshop will take place on May 11, 2026.
 
 **11:00 - 11:40** <b> Keynote II, Tiago Timponi Torrent </b> (keynote chair: Dana Dannélls)  
 
-**11:40 - 12:40** <b> Oral talks II </b> (session chair: )
+**11:40 - 12:40** <b> Oral talks II </b> (session chair: Simon Dobnik)
 
 * <b> 11:40 - 12:00: Cultural Grounding in Swedish: Extending an Everyday Knowledge Benchmark for LLMs </b>  
   <span style="color:gray"> Beloucif, Meriem and Sjons, Johan </span>  
