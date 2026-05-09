@@ -16,6 +16,16 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 
 **Poster Session Location**: [Menorca Hall](https://melia-palma-bay.firstview.us/en/Hall-menorca) situated on the 3rd floor of the Palau de Congressos.
 
+**Zoom link for registered participants and presenters**:
+
+1. The link is available ONLY through the CONFlux app.
+2. Go to the app, open ``Schedule''.
+3. Choose our workshop from the list.
+4. Select ``Private'' bu changing the tab.
+5. Zoom Session link is then available, it is in grey, but it works. Click on it and join the session. If all is successful, you are supposed to end up on the following app page:
+
+![](./images/conflux_page_example.jpg)
+
 ## Proceedings
 
 <iframe
