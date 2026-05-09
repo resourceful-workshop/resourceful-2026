@@ -36,12 +36,6 @@ Zoom Session link is then available, it is in grey, but it works. Click on it an
   style="border: 1px solid #ccc; max-width: 900px;">
 </iframe>
 
-<p>
-  <a href="{{ basepath }}/W55.pdf" download>
-    Download the proceedings
-  </a>
-</p>
-
 The proceedings are now available through the [LREC 2026 website](https://lrec2026.info/workshops-and-tutorials/workshop-and-tutorials-schedule). The proceedings are expected to be added to the [https://lrec.elra.info](https://lrec.elra.info) website in the week of the workshop.
 
 Some lunch options near the conference venue:
