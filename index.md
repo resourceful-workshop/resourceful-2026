@@ -25,7 +25,7 @@ Co-located with [the fifteenth biennial Language Resources and Evaluation Confer
 
 <img src="./images/conflux_page_example.jpg" style="max-width: 500px; width: 100%; height: auto;">
 
-5. Zoom Session link is then available, it is in grey, but it works. Click on it and join the session.
+Zoom Session link is then available, it is in grey, but it works. Click on it and join the session.
 
 ## Proceedings
 
