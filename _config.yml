@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 description: "The fourth international workshop on the role of resources in the age of large language models"
 url: "https://resourceful-workshop.github.io"
 baseurl: "/resourceful-2026"
+repository: "resourceful-workshop/resourceful-2026"
 basepath: "resourceful-2026/"
 
 

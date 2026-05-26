@@ -39,6 +39,7 @@ jobs:
       - name: Build with Jekyll
         env:
           JEKYLL_ENV: production
+          PAGES_REPO_NWO: resourceful-workshop/resourceful-2026
         run: bundle exec jekyll build --source . --destination _site
 
       - name: Upload artifact
