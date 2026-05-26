@@ -19,13 +19,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          token: ${{ github.token }}
 
       - name: Install dependencies
         run: |
           ruby --version
-          gem install bundler
-          bundle install
+          if ! command -v bundle >/dev/null 2>&1; then
+            GEM_USER_DIR="$(ruby -e 'print Gem.user_dir')"
+            echo "$GEM_USER_DIR/bin" >> "$GITHUB_PATH"
+            gem install bundler --user-install --no-document
+          fi
+          bundle --version
+          bundle config set --local path vendor/bundle
+          bundle install --jobs 4 --retry 3
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --source . --destination _site
