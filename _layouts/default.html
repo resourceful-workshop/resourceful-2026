@@ -2,11 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
 
     <head>
-        {% if jekyll.environment  == "production" %}
-        {% assign basepath = "/resourceful-2026" %}
-        {%else%}
-        {% assign basepath = "" %}
-        {% endif %}
         {% if site.google_analytics %}
         <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
         <script>
@@ -52,9 +47,7 @@
             {% if page.url == link.url or page.layout == link.layout %}
             {% assign current = 'navactive' %}
             {% endif %}
-
-
-            <a class="{{ current| append: ' navbutton' }}" href="{{ link.url | prepend: basepath }}">{{ link.text }}</a>
+            <a class="{{ current| append: ' navbutton' }}" href="{{ link.url | relative_url }}">{{ link.text }}</a>
 
             {% endfor %}
         </div>
