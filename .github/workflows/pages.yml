@@ -26,9 +26,10 @@ jobs:
       - name: Install dependencies
         run: |
           ruby --version
+          GEM_USER_DIR="$(ruby -e 'print Gem.user_dir')"
+          export PATH="$GEM_USER_DIR/bin:$PATH"
+          echo "$GEM_USER_DIR/bin" >> "$GITHUB_PATH"
           if ! command -v bundle >/dev/null 2>&1; then
-            GEM_USER_DIR="$(ruby -e 'print Gem.user_dir')"
-            echo "$GEM_USER_DIR/bin" >> "$GITHUB_PATH"
             gem install bundler --user-install --no-document
           fi
           bundle --version
